@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Shagun",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/shagun",
+    "feed_url": "https://shameerpuri.github.io/shagun/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shameer"
+    },
+    "items": [
+        {
+            "id": "https://shameerpuri.github.io/shagun/try.html",
+            "url": "https://shameerpuri.github.io/shagun/try.html",
+            "title": "try",
+            "summary": "try",
+            "content_html": "try",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T18:51:38+05:30",
+            "date_modified": "2019-08-31T18:51:38+05:30"
+        }
+    ]
+}
