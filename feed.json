@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://shameerpuri.github.io/shagun/room-202.html",
+            "url": "https://shameerpuri.github.io/shagun/room-202.html",
+            "title": "Room 202",
+            "summary": "A room of excellence ",
+            "content_html": "<p>A room of excellence</p>\n<p> </p>\n<p><img class=\"post__image\" src=\"https://shameerpuri.github.io/shagun/media/posts/2/hotel-regina-superior-rooms-vienna.jpg\" alt=\"room 202\" width=\"1500\" height=\"998\"></p>",
+            "author": {
+                "name": "Shameer"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-31T20:11:02+05:30",
+            "date_modified": "2019-08-31T20:11:02+05:30"
+        },
+        {
             "id": "https://shameerpuri.github.io/shagun/try.html",
             "url": "https://shameerpuri.github.io/shagun/try.html",
             "title": "try",

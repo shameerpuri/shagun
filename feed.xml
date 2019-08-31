@@ -3,12 +3,34 @@
     <title>Shagun</title>
     <link href="https://shameerpuri.github.io/shagun/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/shagun" />
-    <updated>2019-08-31T19:56:12+05:30</updated>
+    <updated>2019-08-31T20:12:33+05:30</updated>
     <author>
         <name>Shameer</name>
     </author>
     <id>https://shameerpuri.github.io/shagun</id>
 
+    <entry>
+        <title>Room 202</title>
+        <author>
+            <name>Shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/room-202.html"/>
+        <id>https://shameerpuri.github.io/shagun/room-202.html</id>
+
+        <updated>2019-08-31T20:11:02+05:30</updated>
+            <summary>
+                <![CDATA[
+                    A room of excellence 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A room of excellence</p>
+<p> </p>
+<p><img class="post__image" src="https://shameerpuri.github.io/shagun/media/posts/2/hotel-regina-superior-rooms-vienna.jpg" alt="room 202" width="1500" height="998"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>try</title>
         <author>
