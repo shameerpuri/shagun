@@ -21,21 +21,21 @@
             "tags": [
             ],
             "date_published": "2019-08-31T20:11:02+05:30",
-            "date_modified": "2019-08-31T20:18:18+05:30"
+            "date_modified": "2019-09-11T18:06:35+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/try.html",
             "url": "https://shameerpuri.github.io/shagun/try.html",
             "title": "try",
-            "summary": "try",
-            "content_html": "try",
+            "summary": "Name :- Address :- Phone Number :- Email Id:- ",
+            "content_html": "<form name=\"One\">\n<p>Name :-                         <input name=\"Name\" required=\"required\" type=\"text\"></p>\n<p>Address :-                    <textarea name=\"Address\"></textarea></p>\n<p>Phone Number :-          <input name=\"Phone Number\" type=\"tel\"></p>\n<p>Email Id:-                      <input name=\"email\" required=\"required\" type=\"email\"></p>\n</form>\n<p> </p>",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
             "date_published": "2019-08-31T18:51:38+05:30",
-            "date_modified": "2019-08-31T20:18:23+05:30"
+            "date_modified": "2019-09-13T08:52:36+05:30"
         }
     ]
 }

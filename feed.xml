@@ -3,7 +3,7 @@
     <title>Shagun Hotel</title>
     <link href="https://shameerpuri.github.io/shagun/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/shagun" />
-    <updated>2019-09-10T08:07:51+05:30</updated>
+    <updated>2019-09-13T08:54:17+05:30</updated>
     <author>
         <name>Shagun</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://shameerpuri.github.io/shagun/room-202.html"/>
         <id>https://shameerpuri.github.io/shagun/room-202.html</id>
 
-        <updated>2019-08-31T20:18:18+05:30</updated>
+        <updated>2019-09-11T18:06:35+05:30</updated>
             <summary>
                 <![CDATA[
                     A room of excellence 
@@ -39,15 +39,21 @@
         <link href="https://shameerpuri.github.io/shagun/try.html"/>
         <id>https://shameerpuri.github.io/shagun/try.html</id>
 
-        <updated>2019-08-31T20:18:23+05:30</updated>
+        <updated>2019-09-13T08:52:36+05:30</updated>
             <summary>
                 <![CDATA[
-                    try
+                    Name :- Address :- Phone Number :- Email Id:- 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                try
+                <form name="One">
+<p>Name :-                         <input name="Name" required="required" type="text"></p>
+<p>Address :-                    <textarea name="Address"></textarea></p>
+<p>Phone Number :-          <input name="Phone Number" type="tel"></p>
+<p>Email Id:-                      <input name="email" required="required" type="email"></p>
+</form>
+<p> </p>
             ]]>
         </content>
     </entry>
