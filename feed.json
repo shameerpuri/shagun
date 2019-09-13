@@ -121,13 +121,15 @@
             "id": "https://shameerpuri.github.io/shagun/contact-us.html",
             "url": "https://shameerpuri.github.io/shagun/contact-us.html",
             "title": "Contact Us",
+            "summary": " Name: Telephone Number: ",
+            "content_html": "<form name=\"Contact Us\">  \n<table>\n<tbody>\n<tr>\n<td><label>Name: </label></td>\n<td> </td>\n<td><input name=\"Name\" type=\"text\" placeholder=\"Name\"> </td>\n</tr>\n<tr>\n<td> <label>Telephone Number:</label></td>\n<td> </td>\n<td><input name=\"Telephone\" type=\"tel\" placeholder=\"Telephone Number\"> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n</form>\n<p> </p>\n<form></form>",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
             "date_published": "2019-09-13T20:08:53+05:30",
-            "date_modified": "2019-09-13T20:08:53+05:30"
+            "date_modified": "2019-09-13T21:51:04+05:30"
         }
     ]
 }
