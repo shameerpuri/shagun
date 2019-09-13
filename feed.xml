@@ -3,58 +3,130 @@
     <title>Shagun Hotel</title>
     <link href="https://shameerpuri.github.io/shagun/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/shagun" />
-    <updated>2019-09-13T20:05:43+05:30</updated>
+    <updated>2019-09-13T20:53:38+05:30</updated>
     <author>
         <name>Shagun</name>
     </author>
     <id>https://shameerpuri.github.io/shagun</id>
 
     <entry>
-        <title>Room 202</title>
+        <title>Book a Room</title>
         <author>
             <name>Shagun</name>
         </author>
-        <link href="https://shameerpuri.github.io/shagun/room-202.html"/>
-        <id>https://shameerpuri.github.io/shagun/room-202.html</id>
+        <link href="https://shameerpuri.github.io/shagun/book-a-room.html"/>
+        <id>https://shameerpuri.github.io/shagun/book-a-room.html</id>
 
-        <updated>2019-09-11T18:06:35+05:30</updated>
-            <summary>
-                <![CDATA[
-                    A room of excellence 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A room of excellence</p>
-<p> </p>
-<p><img class="post__image" src="https://shameerpuri.github.io/shagun/media/posts/2/hotel-regina-superior-rooms-vienna.jpg" alt="room 202" width="1500" height="998"></p>
-            ]]>
-        </content>
+        <updated>2019-09-13T20:53:29+05:30</updated>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
-        <title>try</title>
+        <title>New Developments</title>
         <author>
             <name>Shagun</name>
         </author>
-        <link href="https://shameerpuri.github.io/shagun/try.html"/>
-        <id>https://shameerpuri.github.io/shagun/try.html</id>
+        <link href="https://shameerpuri.github.io/shagun/new-developments.html"/>
+        <id>https://shameerpuri.github.io/shagun/new-developments.html</id>
 
-        <updated>2019-09-13T08:52:36+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Name :- Address :- Phone Number :- Email Id:- 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <form name="One">
-<p>Name :-                         <input name="Name" required="required" type="text"></p>
-<p>Address :-                    <textarea name="Address"></textarea></p>
-<p>Phone Number :-          <input name="Phone Number" type="tel"></p>
-<p>Email Id:-                      <input name="email" required="required" type="email"></p>
-</form>
-<p> </p>
-            ]]>
-        </content>
+        <updated>2019-09-13T20:52:37+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Restaurant</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/restaurant.html"/>
+        <id>https://shameerpuri.github.io/shagun/restaurant.html</id>
+
+        <updated>2019-09-13T20:52:19+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>History</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/history.html"/>
+        <id>https://shameerpuri.github.io/shagun/history.html</id>
+
+        <updated>2019-09-13T20:52:00+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/gallery.html"/>
+        <id>https://shameerpuri.github.io/shagun/gallery.html</id>
+
+        <updated>2019-09-13T20:51:46+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Location</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/location.html"/>
+        <id>https://shameerpuri.github.io/shagun/location.html</id>
+
+        <updated>2019-09-13T20:51:33+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Rooms</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/rooms.html"/>
+        <id>https://shameerpuri.github.io/shagun/rooms.html</id>
+
+        <updated>2019-09-13T20:43:20+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tourist Attractions</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/tourist-attractions.html"/>
+        <id>https://shameerpuri.github.io/shagun/tourist-attractions.html</id>
+
+        <updated>2019-09-13T20:09:31+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Room 101</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/room-101.html"/>
+        <id>https://shameerpuri.github.io/shagun/room-101.html</id>
+
+        <updated>2019-09-13T20:09:07+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/contact-us.html"/>
+        <id>https://shameerpuri.github.io/shagun/contact-us.html</id>
+
+        <updated>2019-09-13T20:08:53+05:30</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
