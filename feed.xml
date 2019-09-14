@@ -3,7 +3,7 @@
     <title>Shagun Hotel</title>
     <link href="https://shameerpuri.github.io/shagun/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/shagun" />
-    <updated>2019-09-14T22:20:15+05:30</updated>
+    <updated>2019-09-14T22:34:36+05:30</updated>
     <author>
         <name>Shagun</name>
     </author>
@@ -125,44 +125,32 @@
         <link href="https://shameerpuri.github.io/shagun/contact-us.html"/>
         <id>https://shameerpuri.github.io/shagun/contact-us.html</id>
 
-        <updated>2019-09-14T22:20:10+05:30</updated>
+        <updated>2019-09-14T22:34:30+05:30</updated>
             <summary>
                 <![CDATA[
-                     This is for a lot of description and details Name: Tele Number: Mobile Number: 
+                    Name: Tele Number: Mobile Number: 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<table>
-<tbody>
-<tr>
-<td>This is for a lot of description and details</td>
-<td> </td>
-<td><form action="MAILTO:hotel.shagun@outlook.com" enctype="text/plain" method="get" name="Contact Us">
+                <form action="MAILTO:hotel.shagun@outlook.com" enctype="multipart/form-data" method="get" name="Contact Us">
 <table>
 <tbody>
 <tr>
 <td><label>Name: </label></td>
-<td> </td>
 <td><input name="Name" type="text" placeholder="Name"> </td>
 </tr>
 <tr>
 <td><label>Tele Number:</label></td>
-<td> </td>
 <td><input name="Telephone" type="tel" placeholder="Telephone Number"> </td>
 </tr>
 <tr>
-<td> Mobile Number:</td>
-<td> </td>
-<td> </td>
+<td> <label>Mobile Number:</label></td>
+<td><input name="Mobile" type="tel" placeholder="Mobile Number"> </td>
 </tr>
 </tbody>
 </table>
-<input type="submit" value="Send"></form></td>
-</tr>
-</tbody>
-</table>
+<input type="submit" value="Send"></form>
             ]]>
         </content>
     </entry>

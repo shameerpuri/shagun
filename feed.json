@@ -121,15 +121,15 @@
             "id": "https://shameerpuri.github.io/shagun/contact-us.html",
             "url": "https://shameerpuri.github.io/shagun/contact-us.html",
             "title": "Contact Us",
-            "summary": " This is for a lot of description and details Name: Tele Number: Mobile Number: ",
-            "content_html": "<p> </p>\n<table>\n<tbody>\n<tr>\n<td>This is for a lot of description and details</td>\n<td> </td>\n<td><form action=\"MAILTO:hotel.shagun@outlook.com\" enctype=\"text/plain\" method=\"get\" name=\"Contact Us\">\n<table>\n<tbody>\n<tr>\n<td><label>Name: </label></td>\n<td> </td>\n<td><input name=\"Name\" type=\"text\" placeholder=\"Name\"> </td>\n</tr>\n<tr>\n<td><label>Tele Number:</label></td>\n<td> </td>\n<td><input name=\"Telephone\" type=\"tel\" placeholder=\"Telephone Number\"> </td>\n</tr>\n<tr>\n<td> Mobile Number:</td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<input type=\"submit\" value=\"Send\"></form></td>\n</tr>\n</tbody>\n</table>",
+            "summary": "Name: Tele Number: Mobile Number: ",
+            "content_html": "<form action=\"MAILTO:hotel.shagun@outlook.com\" enctype=\"multipart/form-data\" method=\"get\" name=\"Contact Us\">\n<table>\n<tbody>\n<tr>\n<td><label>Name: </label></td>\n<td><input name=\"Name\" type=\"text\" placeholder=\"Name\"> </td>\n</tr>\n<tr>\n<td><label>Tele Number:</label></td>\n<td><input name=\"Telephone\" type=\"tel\" placeholder=\"Telephone Number\"> </td>\n</tr>\n<tr>\n<td> <label>Mobile Number:</label></td>\n<td><input name=\"Mobile\" type=\"tel\" placeholder=\"Mobile Number\"> </td>\n</tr>\n</tbody>\n</table>\n<input type=\"submit\" value=\"Send\"></form>",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
             "date_published": "2019-09-13T20:08:53+05:30",
-            "date_modified": "2019-09-14T22:20:10+05:30"
+            "date_modified": "2019-09-14T22:34:30+05:30"
         }
     ]
 }
