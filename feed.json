@@ -10,126 +10,124 @@
     },
     "items": [
         {
-            "id": "https://shameerpuri.github.io/shagun/book-a-room.html",
-            "url": "https://shameerpuri.github.io/shagun/book-a-room.html",
-            "title": "Book a Room",
+            "id": "https://shameerpuri.github.io/shagun/spirtual-tour.html",
+            "url": "https://shameerpuri.github.io/shagun/spirtual-tour.html",
+            "title": "Spirtual Tour",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:53:29+05:30",
-            "date_modified": "2019-09-13T20:53:29+05:30"
+            "date_published": "2019-09-15T19:03:50+05:30",
+            "date_modified": "2019-09-15T19:03:50+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/new-developments.html",
-            "url": "https://shameerpuri.github.io/shagun/new-developments.html",
-            "title": "New Developments",
+            "id": "https://shameerpuri.github.io/shagun/tracking.html",
+            "url": "https://shameerpuri.github.io/shagun/tracking.html",
+            "title": "Tracking",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:52:37+05:30",
-            "date_modified": "2019-09-13T20:52:37+05:30"
+            "date_published": "2019-09-15T19:03:40+05:30",
+            "date_modified": "2019-09-15T19:03:40+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/restaurant.html",
-            "url": "https://shameerpuri.github.io/shagun/restaurant.html",
-            "title": "Restaurant",
+            "id": "https://shameerpuri.github.io/shagun/about-us.html",
+            "url": "https://shameerpuri.github.io/shagun/about-us.html",
+            "title": "About Us",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:52:19+05:30",
-            "date_modified": "2019-09-13T20:52:19+05:30"
+            "date_published": "2019-09-15T19:03:32+05:30",
+            "date_modified": "2019-09-15T19:03:32+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/history.html",
-            "url": "https://shameerpuri.github.io/shagun/history.html",
-            "title": "History",
+            "id": "https://shameerpuri.github.io/shagun/ring-ceremoney.html",
+            "url": "https://shameerpuri.github.io/shagun/ring-ceremoney.html",
+            "title": "Ring Ceremoney",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:52:00+05:30",
-            "date_modified": "2019-09-13T20:52:00+05:30"
+            "date_published": "2019-09-15T19:03:14+05:30",
+            "date_modified": "2019-09-15T19:03:14+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/gallery.html",
-            "url": "https://shameerpuri.github.io/shagun/gallery.html",
-            "title": "Gallery",
+            "id": "https://shameerpuri.github.io/shagun/marriage-anniversary.html",
+            "url": "https://shameerpuri.github.io/shagun/marriage-anniversary.html",
+            "title": "Marriage Anniversary",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:51:46+05:30",
-            "date_modified": "2019-09-13T20:51:46+05:30"
+            "date_published": "2019-09-15T19:03:03+05:30",
+            "date_modified": "2019-09-15T19:03:03+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/location.html",
-            "url": "https://shameerpuri.github.io/shagun/location.html",
-            "title": "Location",
+            "id": "https://shameerpuri.github.io/shagun/party.html",
+            "url": "https://shameerpuri.github.io/shagun/party.html",
+            "title": "Party",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:51:33+05:30",
-            "date_modified": "2019-09-13T20:51:33+05:30"
+            "date_published": "2019-09-15T19:02:19+05:30",
+            "date_modified": "2019-09-15T19:02:19+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/rooms.html",
-            "url": "https://shameerpuri.github.io/shagun/rooms.html",
-            "title": "Rooms",
+            "id": "https://shameerpuri.github.io/shagun/kitty-party.html",
+            "url": "https://shameerpuri.github.io/shagun/kitty-party.html",
+            "title": "Kitty Party",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:43:20+05:30",
-            "date_modified": "2019-09-13T20:43:20+05:30"
+            "date_published": "2019-09-15T19:02:11+05:30",
+            "date_modified": "2019-09-15T19:02:11+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/tourist-attractions.html",
-            "url": "https://shameerpuri.github.io/shagun/tourist-attractions.html",
-            "title": "Tourist Attractions",
+            "id": "https://shameerpuri.github.io/shagun/birthday-party.html",
+            "url": "https://shameerpuri.github.io/shagun/birthday-party.html",
+            "title": "Birthday Party",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:09:31+05:30",
-            "date_modified": "2019-09-13T20:09:31+05:30"
+            "date_published": "2019-09-15T19:02:05+05:30",
+            "date_modified": "2019-09-15T19:02:05+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/room-101.html",
-            "url": "https://shameerpuri.github.io/shagun/room-101.html",
-            "title": "Room 101",
+            "id": "https://shameerpuri.github.io/shagun/wedding-planning.html",
+            "url": "https://shameerpuri.github.io/shagun/wedding-planning.html",
+            "title": "Wedding Planning",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:09:07+05:30",
-            "date_modified": "2019-09-13T20:09:07+05:30"
+            "date_published": "2019-09-15T19:01:55+05:30",
+            "date_modified": "2019-09-15T19:01:55+05:30"
         },
         {
-            "id": "https://shameerpuri.github.io/shagun/contact-us.html",
-            "url": "https://shameerpuri.github.io/shagun/contact-us.html",
-            "title": "Contact Us",
-            "summary": "Name: Telephone Number: Mobile Number: ",
-            "content_html": "<form action=\"MAILTO:hotel.shagun@outlook.com\" enctype=\"multipart/form-data\" method=\"get\" name=\"Contact Us\">\n<table style=\"width: 770px;\">\n<tbody>\n<tr>\n<td style=\"width: 361px;\"><label>Name: </label></td>\n<td style=\"width: 408px;\"><input name=\"Name\" type=\"text\" placeholder=\"Name\"> </td>\n</tr>\n<tr>\n<td style=\"width: 361px;\"><label>Telephone Number:</label></td>\n<td style=\"width: 408px;\"><input name=\"Telephone\" type=\"tel\" placeholder=\"Telephone Number\"> </td>\n</tr>\n<tr>\n<td style=\"width: 361px;\"> <label>Mobile Number:</label></td>\n<td style=\"width: 408px;\"><input name=\"Mobile\" type=\"tel\" placeholder=\"Mobile Number\"> </td>\n</tr>\n</tbody>\n</table>\n<input type=\"submit\" value=\"Send\"></form>",
+            "id": "https://shameerpuri.github.io/shagun/private-events.html",
+            "url": "https://shameerpuri.github.io/shagun/private-events.html",
+            "title": "Private Events",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-13T20:08:53+05:30",
-            "date_modified": "2019-09-15T10:12:33+05:30"
+            "date_published": "2019-09-15T19:01:47+05:30",
+            "date_modified": "2019-09-15T19:01:47+05:30"
         }
     ]
 }
