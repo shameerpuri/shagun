@@ -121,15 +121,15 @@
             "id": "https://shameerpuri.github.io/shagun/contact-us.html",
             "url": "https://shameerpuri.github.io/shagun/contact-us.html",
             "title": "Contact Us",
-            "summary": "Name: Tele Number: Mobile Number: ",
-            "content_html": "<form action=\"MAILTO:hotel.shagun@outlook.com\" enctype=\"multipart/form-data\" method=\"get\" name=\"Contact Us\">\n<table>\n<tbody>\n<tr>\n<td><label>Name: </label></td>\n<td><input name=\"Name\" type=\"text\" placeholder=\"Name\"> </td>\n</tr>\n<tr>\n<td><label>Tele Number:</label></td>\n<td><input name=\"Telephone\" type=\"tel\" placeholder=\"Telephone Number\"> </td>\n</tr>\n<tr>\n<td> <label>Mobile Number:</label></td>\n<td><input name=\"Mobile\" type=\"tel\" placeholder=\"Mobile Number\"> </td>\n</tr>\n</tbody>\n</table>\n<input type=\"submit\" value=\"Send\"></form>",
+            "summary": "Name: Telephone Number: Mobile Number: ",
+            "content_html": "<form action=\"MAILTO:hotel.shagun@outlook.com\" enctype=\"multipart/form-data\" method=\"get\" name=\"Contact Us\">\n<table style=\"width: 770px;\">\n<tbody>\n<tr>\n<td style=\"width: 361px;\"><label>Name: </label></td>\n<td style=\"width: 408px;\"><input name=\"Name\" type=\"text\" placeholder=\"Name\"> </td>\n</tr>\n<tr>\n<td style=\"width: 361px;\"><label>Telephone Number:</label></td>\n<td style=\"width: 408px;\"><input name=\"Telephone\" type=\"tel\" placeholder=\"Telephone Number\"> </td>\n</tr>\n<tr>\n<td style=\"width: 361px;\"> <label>Mobile Number:</label></td>\n<td style=\"width: 408px;\"><input name=\"Mobile\" type=\"tel\" placeholder=\"Mobile Number\"> </td>\n</tr>\n</tbody>\n</table>\n<input type=\"submit\" value=\"Send\"></form>",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
             "date_published": "2019-09-13T20:08:53+05:30",
-            "date_modified": "2019-09-14T22:34:30+05:30"
+            "date_modified": "2019-09-14T22:55:17+05:30"
         }
     ]
 }
