@@ -3,12 +3,35 @@
     <title>Shagun Hotel</title>
     <link href="https://shameerpuri.github.io/shagun/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/shagun" />
-    <updated>2019-09-17T16:51:38+05:30</updated>
+    <updated>2019-09-17T18:02:14+05:30</updated>
     <author>
         <name>Shagun</name>
     </author>
     <id>https://shameerpuri.github.io/shagun</id>
 
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Shagun</name>
+        </author>
+        <link href="https://shameerpuri.github.io/shagun/home.html"/>
+        <id>https://shameerpuri.github.io/shagun/home.html</id>
+
+        <updated>2019-09-17T17:39:55+05:30</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="slider-holder"><span id="slider-image-1"></span> <span id="slider-image-2"></span> <span id="slider-image-3"></span>
+<div class="image-holder"><img class="slider-image" src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg"> <img src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg"> <img class="slider-image" src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg" width="2048" height="1365"></div>
+<div class="button-holder"> </div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wedding Reception</title>
         <author>
@@ -177,17 +200,5 @@
 <p class="align-left">Thats where we come into the picture in planning out the whole event without you having to waste your precious time and taking the hassles of running from pillar to post in search of the best deals available to make the ceremony truly glorious. Be it the venue booking or the decorations therein (the engagement ceremony decorations are usually on a low note with soft lights and mild flowers serving the whole purpose) or the food catering and the other basic arrangements from music to photography. Be it an afternoon event or a late evening affair, we make it equally glorious.</p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Marriage Anniversary</title>
-        <author>
-            <name>Shagun</name>
-        </author>
-        <link href="https://shameerpuri.github.io/shagun/marriage-anniversary.html"/>
-        <id>https://shameerpuri.github.io/shagun/marriage-anniversary.html</id>
-
-        <updated>2019-09-15T19:03:03+05:30</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>

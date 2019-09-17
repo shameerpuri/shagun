@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://shameerpuri.github.io/shagun/home.html",
+            "url": "https://shameerpuri.github.io/shagun/home.html",
+            "title": "Home",
+            "summary": " ",
+            "content_html": "<div class=\"slider-holder\"><span id=\"slider-image-1\"></span> <span id=\"slider-image-2\"></span> <span id=\"slider-image-3\"></span>\n<div class=\"image-holder\"><img class=\"slider-image\" src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\"> <img src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\"> <img class=\"slider-image\" src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\" width=\"2048\" height=\"1365\"></div>\n<div class=\"button-holder\"> </div>\n</div>",
+            "author": {
+                "name": "Shagun"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-17T17:19:01+05:30",
+            "date_modified": "2019-09-17T17:39:55+05:30"
+        },
+        {
             "id": "https://shameerpuri.github.io/shagun/wedding-reception.html",
             "url": "https://shameerpuri.github.io/shagun/wedding-reception.html",
             "title": "Wedding Reception",
@@ -128,18 +142,6 @@
             ],
             "date_published": "2019-09-15T19:03:14+05:30",
             "date_modified": "2019-09-17T16:35:59+05:30"
-        },
-        {
-            "id": "https://shameerpuri.github.io/shagun/marriage-anniversary.html",
-            "url": "https://shameerpuri.github.io/shagun/marriage-anniversary.html",
-            "title": "Marriage Anniversary",
-            "author": {
-                "name": "Shagun"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-15T19:03:03+05:30",
-            "date_modified": "2019-09-15T19:03:03+05:30"
         }
     ]
 }
