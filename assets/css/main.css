@@ -612,10 +612,12 @@ textarea {
 .logo {
   color: #4e5360 !important;
   font-family: "PT Serif", serif;
-  font-size: 1rem; }
+  font-size: 2rem;
+  font-weight: 700; }
   @media all and (min-width: 56.25em) {
     .logo {
-      font-size: 1.125rem; } }
+      font-size: 2.125rem;
+	font-weight: 700; } }
 
 /* Navigation ------------------------ */
 .navbar__menu {
