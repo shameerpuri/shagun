@@ -14,14 +14,14 @@
             "url": "https://shameerpuri.github.io/shagun/home/",
             "title": "Home",
             "summary": " ",
-            "content_html": "<div class=\"slider-holder\"><span id=\"slider-image-1\"></span> <span id=\"slider-image-2\"></span> <span id=\"slider-image-3\"></span>\n<div class=\"image-holder\"><img class=\"slider-image\" src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\"> <img src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\"> <img class=\"slider-image\" src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\" width=\"2048\" height=\"1365\"></div>\n<div class=\"button-holder\"> </div>\n</div>",
+            "content_html": "<div class=\"slider-holder\"><span id=\"slider-image-1\"></span> <span id=\"slider-image-2\"></span> <span id=\"slider-image-3\"></span>\n<div class=\"image-holder\"><figure class=\"slider-image\"><img loading=\"lazy\"  src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-xs.jpg 300w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-sm.jpg 480w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-md.jpg 768w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-lg.jpg 1024w\" ></figure> <img loading=\"lazy\" src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-xs.jpg 300w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-sm.jpg 480w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-md.jpg 768w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-lg.jpg 1024w\" > <figure class=\"slider-image\"><img loading=\"lazy\"  src=\"https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-xs.jpg 300w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-sm.jpg 480w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-md.jpg 768w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-lg.jpg 1024w\"  width=\"2048\" height=\"1365\"></figure></div>\n<div class=\"button-holder\"> </div>\n</div>",
             "author": {
                 "name": "Shagun"
             },
             "tags": [
             ],
-            "date_published": "2019-09-17T17:19:01+05:30",
-            "date_modified": "2020-10-01T09:06:15+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/wedding-reception/",
@@ -35,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-17T16:44:00+05:30",
-            "date_modified": "2019-10-15T08:30:06+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/wedding-day/",
@@ -50,8 +50,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-17T16:43:07+05:30",
-            "date_modified": "2019-09-18T20:23:09+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/cocktail/",
@@ -65,8 +65,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-17T16:42:25+05:30",
-            "date_modified": "2019-09-18T20:22:42+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/mehndi-sangeet-ceremony/",
@@ -80,8 +80,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-17T16:41:31+05:30",
-            "date_modified": "2019-09-18T18:53:30+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/tikkasagan-ceremony/",
@@ -95,8 +95,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-17T16:40:08+05:30",
-            "date_modified": "2019-09-18T18:38:31+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/spirtual-tour/",
@@ -107,8 +107,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-15T19:03:50+05:30",
-            "date_modified": "2019-09-15T19:03:50+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/tracking/",
@@ -119,8 +119,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-15T19:03:40+05:30",
-            "date_modified": "2019-09-15T19:03:40+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/about-us/",
@@ -131,8 +131,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-15T19:03:32+05:30",
-            "date_modified": "2019-09-15T19:03:32+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         },
         {
             "id": "https://shameerpuri.github.io/shagun/ring-ceremoney/",
@@ -146,8 +146,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-15T19:03:14+05:30",
-            "date_modified": "2019-09-18T18:28:41+05:30"
+            "date_published": "2020-10-10T13:24:58+05:30",
+            "date_modified": "2020-10-10T13:24:58+05:30"
         }
     ]
 }

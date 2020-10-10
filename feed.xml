@@ -3,7 +3,7 @@
     <title>ShagunHotel</title>
     <link href="https://shameerpuri.github.io/shagun/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/shagun" />
-    <updated>2020-10-07T05:40:31+05:30</updated>
+    <updated>1970-01-01T05:30:00+05:30</updated>
     <author>
         <name>Shagun</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://shameerpuri.github.io/shagun/home/"/>
         <id>https://shameerpuri.github.io/shagun/home/</id>
 
-        <updated>2020-10-01T09:06:15+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary>
                 <![CDATA[
                      
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <div class="slider-holder"><span id="slider-image-1"></span> <span id="slider-image-2"></span> <span id="slider-image-3"></span>
-<div class="image-holder"><img class="slider-image" src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg"> <img src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg"> <img class="slider-image" src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg" width="2048" height="1365"></div>
+<div class="image-holder"><figure class="slider-image"><img loading="lazy"  src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-xs.jpg 300w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-sm.jpg 480w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-md.jpg 768w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-lg.jpg 1024w" ></figure> <img loading="lazy" src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-xs.jpg 300w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-sm.jpg 480w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-md.jpg 768w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-lg.jpg 1024w" > <figure class="slider-image"><img loading="lazy"  src="https://shameerpuri.github.io/shagun/media/posts/38/3f98f66901d7de9fa9267fad6bcdbf9b.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-xs.jpg 300w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-sm.jpg 480w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-md.jpg 768w ,https://shameerpuri.github.io/shagun/media/posts/38/responsive/3f98f66901d7de9fa9267fad6bcdbf9b-lg.jpg 1024w"  width="2048" height="1365"></figure></div>
 <div class="button-holder"> </div>
 </div>
             ]]>
@@ -40,7 +40,7 @@
         <link href="https://shameerpuri.github.io/shagun/wedding-reception/"/>
         <id>https://shameerpuri.github.io/shagun/wedding-reception/</id>
 
-        <updated>2019-10-15T08:30:06+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/shagun/media/posts/37/wedding-reception-feature-12052016nz1.jpg" alt="" />
@@ -63,7 +63,7 @@
         <link href="https://shameerpuri.github.io/shagun/wedding-day/"/>
         <id>https://shameerpuri.github.io/shagun/wedding-day/</id>
 
-        <updated>2019-09-18T20:23:09+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/shagun/media/posts/36/o-INDIAN-WEDDING.jpg" alt="" />
@@ -90,7 +90,7 @@
         <link href="https://shameerpuri.github.io/shagun/cocktail/"/>
         <id>https://shameerpuri.github.io/shagun/cocktail/</id>
 
-        <updated>2019-09-18T20:22:42+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/shagun/media/posts/35/Cocktail-Wallpapers-HD.jpg" alt="" />
@@ -114,7 +114,7 @@
         <link href="https://shameerpuri.github.io/shagun/mehndi-sangeet-ceremony/"/>
         <id>https://shameerpuri.github.io/shagun/mehndi-sangeet-ceremony/</id>
 
-        <updated>2019-09-18T18:53:30+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/shagun/media/posts/34/HinduMiyaanwedding0011.jpg" alt="" />
@@ -138,7 +138,7 @@
         <link href="https://shameerpuri.github.io/shagun/tikkasagan-ceremony/"/>
         <id>https://shameerpuri.github.io/shagun/tikkasagan-ceremony/</id>
 
-        <updated>2019-09-18T18:38:31+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/shagun/media/posts/33/magni.jpg" alt="" />
@@ -161,7 +161,7 @@
         <link href="https://shameerpuri.github.io/shagun/spirtual-tour/"/>
         <id>https://shameerpuri.github.io/shagun/spirtual-tour/</id>
 
-        <updated>2019-09-15T19:03:50+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -173,7 +173,7 @@
         <link href="https://shameerpuri.github.io/shagun/tracking/"/>
         <id>https://shameerpuri.github.io/shagun/tracking/</id>
 
-        <updated>2019-09-15T19:03:40+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -185,7 +185,7 @@
         <link href="https://shameerpuri.github.io/shagun/about-us/"/>
         <id>https://shameerpuri.github.io/shagun/about-us/</id>
 
-        <updated>2019-09-15T19:03:32+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -197,7 +197,7 @@
         <link href="https://shameerpuri.github.io/shagun/ring-ceremoney/"/>
         <id>https://shameerpuri.github.io/shagun/ring-ceremoney/</id>
 
-        <updated>2019-09-18T18:28:41+05:30</updated>
+        <updated>2020-10-10T13:24:58+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/shagun/media/posts/29/wedding-ring_1920x1200_83854.jpg" alt="" />
